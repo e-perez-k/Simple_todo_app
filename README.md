@@ -1,0 +1,1 @@
+Simple to-do app es un proyecto sencillo como parte del curso de Front End de Alura y Oracle
